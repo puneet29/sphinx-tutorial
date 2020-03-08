@@ -3,8 +3,8 @@ Sphinx Tutorial
 ===============
 
 .. image:: https://readthedocs.org/projects/puneetcrawler/badge/?version=latest
-:target: https://puneetcrawler.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
+   :target: https://puneetcrawler.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
 
 Welcome to the Introduction to Sphinx & Read the Docs.
 This tutorial will walk you through the initial steps 
